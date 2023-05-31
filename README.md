@@ -1,7 +1,7 @@
 
 # BIG DATA ANALYTICS PROJECT
 
-<p>Tools : My SQL Workbench </p>
+<p>Tools : My SQL Workbench (<a href="https://drive.google.com/file/d/1__jq2Kb-IODwhJ8bAGbbQn5grlm-MLd-/view?usp=sharing">Klik Disini</a>)</p></p>
 <p>Visualization : Looker Studio (<a href="https://lookerstudio.google.com/reporting/f7108010-d63e-4c9c-b010-46cc028a641a">Klik Disini</a>)</p>
 <p>Dataset : <a href="https://docs.google.com/spreadsheets/d/1-6Xt7d4Pa_Pk0Vc7Dl2IjR8iDqbHVdmA/edit?usp=sharing&ouid=116627426136462261898&rtpof=true&sd=true">Klik Disini</a> </p>
 
@@ -70,7 +70,11 @@ ALTER TABLE base_table ADD PRIMARY KEY(id_invoice);
   
 </details>
 
-![Tabel Base](Gambar/Tabel Base "Gambar 1. Tabel Base")
+<figure>
+    <img src="/Gambar/Tabel Base.png"
+         alt="Tabel Base">
+	<figcaption><p align="center">Gambar 1. Tabel Base</p></figcaption>
+</figure>
 
 
 <br>
@@ -102,5 +106,16 @@ ORDER BY 1, 4, 5, 6, 7, 8, 9, 10
   
 </details>
 
-## Data Visualization
+<figure>
+    <img src="/Gambar/Tabel Aggregat.png"
+         alt="Tabel Aggregation">
+	<figcaption><p align="center">Gambar 2. Tabel Aggregation</p></figcaption>
+</figure>
 
+## Data Visualization
+<figure>
+    <img src="/Gambar/Dashboard Kimia Farma.png"
+         alt="Dashboard Kimia Farma">
+	<figcaption><p align="center">Gambar 3. Dashboard Kimia Farma</p></figcaption>
+</figure>
+<a href="https://lookerstudio.google.com/reporting/f7108010-d63e-4c9c-b010-46cc028a641a">Klik Disini Untuk Lihat Dinamis Dashboard</a>
