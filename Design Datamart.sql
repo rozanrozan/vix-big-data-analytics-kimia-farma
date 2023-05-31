@@ -100,6 +100,8 @@ LEFT JOIN pelanggan pl
 	ON pl.id_customer = pj.id_customer
 LEFT JOIN barang b
 	ON b.kode_barang = pj.id_barang
+WHERE
+	pj.lini = "SLCYL"
 ORDER BY pj.tanggal
 );
 
