@@ -7,7 +7,7 @@
 
 ## Project Introduction
 
-<p> <strong>Big Data Analytics Project </strong> adalah proyek <em> Virtual Internship Experience </em> yang difasilitasi oleh Rakamin Academy. Dalam proyek ini, saya berperan sebagai Data Analyst Intern yang bertugas menganalisis dan membuat laporan penjualan perusahaan dengan menggunakan data yang tersedia. Dari proyek ini, saya juga belajar banyak tentang <em> Data Warehouse </em>, <em> Data Lake </em>, dan <em> Data Mart </em>.</p>
+<p> <strong>Big Data Analytics Project </strong> adalah proyek <em> Virtual Internship Experience </em> yang difasilitasi oleh Rakamin Academy. Dalam proyek ini, saya berperan sebagai Data Analyst Intern yang bertugas menganalisis dan membuat laporan penjualan merek salicyl perusahaan dengan menggunakan data yang tersedia. Dari proyek ini, saya juga belajar banyak tentang <em> Data Warehouse </em>, <em> Data Lake </em>, dan <em> Data Mart </em>.</p>
 
 <br>
 
@@ -15,7 +15,7 @@
 <p> Adapun objective/target dari proyek ini yaitu:</p>
 <ul>
   <li> Membuat design datamart (tabel base dan tabel aggregat) </li>
-  <li> Membuat visualisasi/dashboard laporan penjualan perusahaan </li>
+  <li> Membuat visualisasi/dashboard laporan penjualan salicyl perusahaan </li>
 </ul>
 
 <br>
