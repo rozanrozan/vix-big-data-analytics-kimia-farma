@@ -70,7 +70,7 @@ ALTER TABLE base_table ADD PRIMARY KEY(id_invoice);
   
 </details>
 
-![Deskripsi Gambar](path_ke_gambar)
+![Tabel Base](Gambar/Tabel Base "Gambar 1. Tabel Base")
 
 
 <br>
