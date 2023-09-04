@@ -114,8 +114,8 @@ ORDER BY 1, 4, 5, 6, 7, 8, 9, 10
 
 ## Data Visualization
 <figure>
-    <img src="/Gambar/Dashboard Kimia Farma.png"
-         alt="Dashboard Kimia Farma">
-	<figcaption><p align="center">Gambar 3. Dashboard Kimia Farma</p></figcaption>
+    <img src="/Gambar/Salicyl Sales Dashboard.png"
+         alt="Salicyl Sales Dashboard">
+	<figcaption><p align="center">Gambar 3. Salicyl Sales Dashboard</p></figcaption>
 </figure>
 <a href="https://lookerstudio.google.com/reporting/f7108010-d63e-4c9c-b010-46cc028a641a">Klik Disini Untuk Lihat Dinamis Dashboard</a>
